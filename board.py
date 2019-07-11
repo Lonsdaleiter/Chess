@@ -9,7 +9,7 @@ import math
 class Board:
 
     @classmethod
-    def init(cls, window):  # TODO FIX THIS THING!!!!
+    def init(cls, window):
         data = open("default_board.dat").read()
 
         for i, row in enumerate(data.split("/")):
@@ -24,7 +24,7 @@ class Board:
         for i, piece in enumerate(PieceManager.group):
             PieceManager.group_map[piece.x][piece.y] = True
 
-        # for i, row in enumerate(data.split("/")):  # y; TODO switch theses
+        # for i, row in enumerate(data.split("/")):
         #     r = []
         #     for j, piece in enumerate(row.split(";")):  # x
         #         if len(piece) > 1:

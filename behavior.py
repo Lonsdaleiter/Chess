@@ -40,7 +40,7 @@ class Behavior:
         return cls.is_straight(x, y, nx, ny) and not cls.is_unit_in_path(board, x, y, nx, ny)
 
     @staticmethod
-    def _knight(unit, board, x, y, nx, ny):  # TODO implement this
+    def _knight(unit, board, x, y, nx, ny):
         return (abs(x - nx) == 2 and abs(y - ny) == 1) or (abs(x - nx) == 1 and abs(y - ny) == 2)
 
     @classmethod
