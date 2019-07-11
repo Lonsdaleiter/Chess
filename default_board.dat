@@ -1,0 +1,8 @@
+b-rook;b-knight;b-bishop;b-king;b-queen;b-bishop;b-knight;b-rook/
+b-pawn;b-pawn;b-pawn;b-pawn;b-pawn;b-pawn;b-pawn;b-pawn/
+;;;;;;;/
+;;;;;;;/
+;;;;;;;/
+;;;;;;;/
+a-pawn;a-pawn;a-pawn;a-pawn;a-pawn;a-pawn;a-pawn;a-pawn/
+a-rook;a-knight;a-bishop;a-king;a-queen;a-bishop;a-knight;a-rook
