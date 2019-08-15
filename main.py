@@ -1,3 +1,12 @@
+'''
+The main module which
+builds the pygame window
+and contains the gameloop.
+
+- Lonsdaleiter
+'''
+
+
 import config
 import pygame
 import drawer

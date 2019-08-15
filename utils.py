@@ -1,3 +1,10 @@
+'''
+A miscellaneous utility module.
+
+- Lonsdaleiter
+'''
+
+
 import math
 
 

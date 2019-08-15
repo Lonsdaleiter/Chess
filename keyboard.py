@@ -1,3 +1,11 @@
+'''
+A module managing the keyboard
+information.
+
+- Lonsdaleiter
+'''
+
+
 import pygame
 
 

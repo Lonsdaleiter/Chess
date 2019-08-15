@@ -1,3 +1,12 @@
+'''
+A module managing whose turn
+it is and other miscellaneous
+game data.
+
+- Lonsdaleiter
+'''
+
+
 current_player = "a"
 won = False
 

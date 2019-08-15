@@ -1,6 +1,12 @@
+'''
+A module containing the Piece
+class to be used in other files.
+
+- Lonsdaleiter
+'''
+
+
 import pygame
-import math
-import mouse
 import utils
 import gamemanager
 

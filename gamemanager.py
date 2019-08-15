@@ -1,11 +1,19 @@
+'''
+A module managing the board's
+piece data.
+
+- Lonsdaleiter
+'''
+
+
 import keyboard
 import pygame
 import mouse
 import utils
-import config
 import piecebehavior
 import turnmanager
 import os
+
 
 group = []
 group_map = []

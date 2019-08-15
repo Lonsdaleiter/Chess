@@ -1,3 +1,11 @@
+'''
+A utility class managing
+the behavior of pieces.
+
+- Lonsdaleiter
+'''
+
+
 import turnmanager
 
 

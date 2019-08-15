@@ -1,4 +1,10 @@
-import pygame
+'''
+A module for the purpose
+of drawing images to the
+window associated therewith.
+
+- Lonsdaleiter
+'''
 
 
 window = None
